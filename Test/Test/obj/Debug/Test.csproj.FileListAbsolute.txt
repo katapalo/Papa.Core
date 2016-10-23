@@ -1,0 +1,15 @@
+C:\Users\Mariano\Documents\Pruebas\Arquitectura1\Papa.Core\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Mariano\Documents\Pruebas\Arquitectura1\Papa.Core\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Mariano\Documents\Pruebas\Arquitectura1\Papa.Core\Test\Test\bin\Debug\Test.exe
+C:\Users\Mariano\Documents\Pruebas\Arquitectura1\Papa.Core\Test\Test\bin\Debug\Test.pdb
+C:\Users\Mariano\Documents\Pruebas\Arquitectura1\Papa.Core\Test\Test\bin\Debug\Papa.Core.dll
+C:\Users\Mariano\Documents\Pruebas\Arquitectura1\Papa.Core\Test\Test\bin\Debug\Papa.Core.pdb
+C:\Users\Mariano\Documents\Pruebas\Arquitectura1\Papa.Core\Test\Test\obj\Debug\Test.exe
+C:\Users\Mariano\Documents\Pruebas\Arquitectura1\Papa.Core\Test\Test\obj\Debug\Test.pdb
+C:\Users\Mariano\Documents\Pruebas\Arquitectura1\Papa.Core\Test\Test\bin\Debug\EntityFramework.dll
+C:\Users\Mariano\Documents\Pruebas\Arquitectura1\Papa.Core\Test\Test\bin\Debug\EntityFramework.xml
+C:\Users\Mariano\Documents\Pruebas\Arquitectura1\Papa.Core\Test\Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mariano\Documents\Pruebas\Arquitectura1\Papa.Core\Test\Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mariano\Documents\Pruebas\Arquitectura1\Papa.Core\Test\Test\bin\Debug\EntityFramework.DynamicFilters.dll
+C:\Users\Mariano\Documents\Pruebas\Arquitectura1\Papa.Core\Test\Test\bin\Debug\AutoMapper.dll
+C:\Users\Mariano\Documents\Pruebas\Arquitectura1\Papa.Core\Test\Test\bin\Debug\AutoMapper.xml
